@@ -1,6 +1,6 @@
 # Laurent de Laroche Souvestre
 
-**Digimax Ltd** · *Every format. One studio.* · [digimax.mu](https://digimax.mu)
+**Digimax Ltd** · *Every format. One studio.* · [digimax.mu](https://digimax.mu) · [@digimax-mu](https://github.com/digimax-mu)
 
 I build software that runs in real rooms: indoor cycling studios, museum installations, VR labs and the small businesses behind them. Mostly web apps on Cloudflare, Android and Windows apps where hardware is involved, and Unity for XR.
 
@@ -14,9 +14,9 @@ I build software that runs in real rooms: indoor cycling studios, museum install
 
 | | |
 |---|---|
-| [digimaxstlsplitter](https://github.com/divergentinc2021/digimaxstlsplitter) | Split large STL/3MF/GLB models into watertight printer-bed tiles in the browser. Every tile audited. [Live](https://digimaxstlsplitter.pages.dev) |
+| [digimaxstlsplitter](https://github.com/digimax-mu/digimaxstlsplitter) | Split large STL/3MF/GLB models into watertight printer-bed tiles in the browser. Every tile audited. [Live](https://digimaxstlsplitter.pages.dev) |
 | [blueprint-tool](https://github.com/divergentinc2021/blueprint-tool) | 3D model to dimensioned orthographic blueprints with headless Blender. |
-| [digimax-transcriber-android](https://github.com/divergentinc2021/digimax-transcriber-android) | Record with the screen locked, transcribe on the phone, no network permission. |
+| [digimax-transcriber-android](https://github.com/digimax-mu/digimax-transcriber-android) | Record with the screen locked, transcribe on the phone, no network permission. |
 | [meta-quest-link-reset](https://github.com/divergentinc2021/meta-quest-link-reset) | Recover a stuck Quest Link / OpenXR session without rebooting. |
 | [storage-mapper](https://github.com/divergentinc2021/storage-mapper) | Plan a Google Drive to NAS move without duplicates. |
 | [ANTicP](https://github.com/divergentinc2021/ANTicP) | Earlier ANT+ indoor cycling web controller, the start of Grannygear. |
