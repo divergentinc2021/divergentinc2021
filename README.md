@@ -12,7 +12,7 @@ I build software that runs in real rooms: indoor cycling studios, museum install
 
 ### Public tools
 
-| | |
+| Tool | What it does |
 |---|---|
 | [digimaxstlsplitter](https://github.com/digimax-mu/digimaxstlsplitter) | Split large STL/3MF/GLB models into watertight printer-bed tiles in the browser. Every tile audited. [Live](https://digimaxstlsplitter.pages.dev) |
 | [blueprint-tool](https://github.com/divergentinc2021/blueprint-tool) | 3D model to dimensioned orthographic blueprints with headless Blender. |
